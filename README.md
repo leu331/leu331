@@ -1,4 +1,3 @@
 Olá, Eu sou Leuzimar.
-Há 23 anos fascinado por tecnologia e suas infinitas possibilidades;
-Aluno da RocketSeat
-Atualmente estudando HTML, CSS e JS.
+Há 23 anos fascinado por tecnologias e suas infinitas possibilidades;
+Aluno da RocketSeat e tualmente estudando HTML, CSS e JS.
