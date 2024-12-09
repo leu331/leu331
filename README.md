@@ -1,10 +1,10 @@
 👋 Olá, eu sou Leuzimar Filho
 
-Bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Full Stack, sempre interessado em sempre facilitar sua vida e criar experiências únicas através das tecnologias mais atuais do mercado. 
+Bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Full Stack, sempre interessado em facilitar sua vida e criar experiências únicas através das tecnologias mais atuais do mercado. 
 
 ## Sobre Mim
 - 🎯 Atualmente focado em desenvolvimento web e aplicações modernas.
-- 💡 Empenhado em aprender cada fvez mais sobre Typescript, NodeJS, NestJS e APIs REST.
+- 💡 Empenhado em aprender cada vez mais sobre Typescript, NodeJS, NestJS e APIs REST.
 - 🌱 Sempre aprendendo e explorando novas formas de otimizar soluções para fazer cada linha de código valer a pena.
 
 ## Habilidades
