@@ -19,8 +19,10 @@ Bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Full Stack, sempre interessado 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Minhas Estatísticas
-![leu331's Stats](https://github-readme-stats.vercel.app/api?username=leu331&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![leu331's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leu331&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<div style="display: inline_block">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=leu331&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leu331&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
+</div>
 
 ## Contato
 - 📫 Email: leuzimarpessoal@gmail.com
