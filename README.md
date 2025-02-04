@@ -27,30 +27,30 @@ Bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Full Stack, sempre interessado 
 
 ## Habilidades
 
-### Linguagens:
+### 💻 Linguagens:
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### Front-End:
+### 🖥️ Front-End:
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Styled--Components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
 
-### Back-End & API:
+### 🔙 Back-End & API:
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20REST-%23333333.svg?style=for-the-badge&logo=rest&logoColor=white" />
 </div>
 
-### Banco de Dados:
+### 🗃️ Banco de Dados:
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/SQLite-%2307405B.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -58,7 +58,7 @@ Bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Full Stack, sempre interessado 
   <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
 </div>
 
-### Ferramentas:
+### 🧰 Ferramentas e Bibliotecas:
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Insomnia-%23E10098.svg?style=for-the-badge&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
@@ -66,6 +66,21 @@ Bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Full Stack, sempre interessado 
   <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+### 🛠️ Validação de Dados:
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Zod-%23008E5B?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yup-%233C5A6B?style=for-the-badge&logo=yup&logoColor=white" />
+</div>
+
+---
+
+## Tecnologias Utilizadas:
+
+![Styled Components](https://img.shields.io/badge/Styled_Components-%2300B4CC?style=for-the-badge&logo=styled-components&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%23007B93?style=for-the-badge&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-%23008E5B?style=for-the-badge&logo=zod&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup-%233C5A6B?style=for-the-badge&logo=yup&logoColor=white)
 
 ---
 
