@@ -75,13 +75,6 @@ Bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Full Stack, sempre interessado 
 
 ---
 
-## Tecnologias Utilizadas:
-
-![Styled Components](https://img.shields.io/badge/Styled_Components-%2300B4CC?style=for-the-badge&logo=styled-components&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%23007B93?style=for-the-badge&logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-%23008E5B?style=for-the-badge&logo=zod&logoColor=white)
-![Yup](https://img.shields.io/badge/Yup-%233C5A6B?style=for-the-badge&logo=yup&logoColor=white)
-
 ---
 
 ## Minhas Estatísticas:
